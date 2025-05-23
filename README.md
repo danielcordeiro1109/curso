@@ -1,3 +1,5 @@
-# curso
+# Curso
 
 Estrutura de pasta
+
+# Curso
